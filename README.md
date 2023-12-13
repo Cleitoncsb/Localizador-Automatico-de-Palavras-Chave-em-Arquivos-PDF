@@ -20,7 +20,11 @@ Certamente, o código pode ser utilizado em diversas situações, como:
 <h3>Análise Legal:</h3> Para localizar referências a casos específicos, leis ou terminologias jurídicas em grandes volumes de documentos legais ou contratos.
 <h3>Auditoria de Documentos:</h3> Em empresas ou organizações, para verificar a presença de termos de conformidade, como "segurança de dados" ou "regulamentação financeira", em relatórios internos e documentos de políticas.
 <h3>Gestão de Conhecimento:</h3> Para catalogar arquivos PDF em um repositório de documentos com base em palavras-chave relevantes para diferentes departamentos ou projetos.
-<h3>Monitoramento de Marca:</h3> Para empresas que desejam monitorar a menção de suas marcas ou produtos em relatórios da indústria ou publicações de pesquisa.
+<h3>Monitoramento de Marca:</h3> Para empresas que desejam monitorar a menção de suas marcas ou produtos em relatórios da indústria ou publicações de pesquisa.<br>
+
+Link para acesso ao colab (https://colab.research.google.com/drive/1QvbmNCdqLTKiS0vUKyyTxzNSMbf5nzav?usp=sharing)
+
+
 
 <h2> 📊 Resultados e Insigths</h2>
 O resultado do código acima retorna algumas informações sobre o arquivo, incluindo o diretório escolhido, as palavras encontradas no arquivo, a aderência à busca, a quantidade de palavras-chave buscadas e a quantidade de palavras-chave encontradas.
