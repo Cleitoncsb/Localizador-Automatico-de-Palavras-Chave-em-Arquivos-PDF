@@ -5,7 +5,7 @@
 
 
 
- <h2> 📌 Overview   </h2>
+ <h2> 📌 Overview  - </h2>
  
 Esse código automatiza a busca de palavras-chave específicas em arquivos PDF dentro de um diretório, fornecendo um resumo de cada palavra-chave encontrada, 
 facilitando a busca e o gerenciamento de informações em grandes conjuntos de documentos PDF.
